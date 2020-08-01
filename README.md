@@ -2,11 +2,19 @@
 
 * In this project I am using Tablesu Dekstop for visualization and story telling on India Air Quality Data from kaggle.
 
+### Link To Tableau Public Story And Dashboard:
+
+* https://public.tableau.com/profile/viraj.modi#!/vizhome/Final_Exam_AssignmentStudent_Id_0748396/India_Air_Quality?publish=yes
+
+* https://public.tableau.com/profile/viraj.modi#!/vizhome/Final_Exam_AssignmentStudent_Id_0748396/Before_After_Comparison?publish=yes 
+
 ### Objective:
 
 * I have tried to do data stroy telling,Data visualization and Dashboarding using Tableau.My intent behind doing this visualization is to explore my visualization skills with tableau also help other by sharing my work which can help them to give ideas about visualization.
 
 ### Brief About Dataset:
+
+* Data Set Link: https://www.kaggle.com/shrutibhargava94/india-air-quality-data
 
 * This data is combined (across the years and states) and largely clean version of the Historical Daily Ambient Air Quality Data released by the Ministry of Environment and Forests and Central Pollution Control Board of India under the National Data Sharing and Accessibility Policy (NDSAP).
 
